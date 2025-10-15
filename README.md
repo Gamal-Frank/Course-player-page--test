@@ -42,7 +42,7 @@ Styling: Tailwind CSS
 
 Icons: Lucide React
 
-Build Tool: Vite / Create React App
+Build Tool: Vite
 
 Code Quality: ESLint & Prettier
 
@@ -95,7 +95,7 @@ content_copy
 expand_less
 npm run dev
 
-The application will be available at http://localhost:5173 (or another port if 5173 is busy).
+The application will be available at http://localhost:3000.
 
 📜 Available Scripts
 
